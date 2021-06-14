@@ -1,1 +1,1 @@
-# poweralgo
+# Power BI Algotrading Project 
